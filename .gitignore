@@ -1,0 +1,4 @@
+dbdata/mysql.sock
+dbdata/auto.cnf
+dbdata/ib_buffer_pool
+*.sock
